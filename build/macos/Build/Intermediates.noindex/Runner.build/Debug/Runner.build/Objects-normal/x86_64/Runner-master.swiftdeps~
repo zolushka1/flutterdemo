@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "90bc223f65860a4d3bf6b0d232706264421db8baa4d05b9684a78e2e79a1b77b"
+build_start_time: [1678688108, 784553050]
+build_end_time: [1678688108, 843945026]
+inputs:
+  "/Users/ontime/Documents/flutterproj/itemcount/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1678688080, 529811382]
+  "/Users/ontime/Documents/flutterproj/itemcount/macos/Runner/AppDelegate.swift": !private [1648486804, 0]
+  "/Users/ontime/Documents/flutterproj/itemcount/macos/Runner/MainFlutterWindow.swift": !private [1648486804, 0]
